@@ -1,0 +1,4 @@
+# List your Python dependencies here
+# Example:
+# pygame==2.5.2
+# numpy==1.24.3
